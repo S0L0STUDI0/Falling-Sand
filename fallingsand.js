@@ -6,6 +6,8 @@
 //  |_||_| |_____/ \___/|_|\___/_____/ \__|\__,_|\__,_|_|\___/ 
 
 //orginal idea and logic of the code thanks to "The Coding Train"
+
+//For "Pete"
 function make2DArray(cols, rows) {
     let arr = new Array(cols);
     for (let i = 0; i < arr.length; i++) {
@@ -133,4 +135,3 @@ function make2DArray(cols, rows) {
     velocityGrid = nextVelocityGrid;
   }
 //SoloStudio-2024
-//For "Pete S"
