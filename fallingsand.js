@@ -5,8 +5,6 @@
 //|_  __  _|____) | (_) | | (_) |___) | |_| |_| | (_| | | (_) |
 //  |_||_| |_____/ \___/|_|\___/_____/ \__|\__,_|\__,_|_|\___/ 
 
-//orginal idea and logic of the code thanks to "The Coding Train"
-
 //For "Pete"
 
 function make2DArray(cols, rows) {
