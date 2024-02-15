@@ -132,6 +132,6 @@ function make2DArray(cols, rows) {
         }
         grid = nextGrid;
         velocityGrid = nextVelocityGrid;
-    }
+}
 
 //SoloStudio-2024
